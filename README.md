@@ -172,8 +172,8 @@ CAMEL-AI项目地址: https://github.com/camel-ai/camel
 - [王小为-内容创作者](https://github.com/cswangxiaowei) (小米NLP算法工程师)
 - [任信行-内容创作者](https://github.com/renxinxing123) (CAMEL-AI宣传大使)
 - [陆崇喜-内容创作者](https://github.com/Lucas-CX) (软件工程师)
-- [邢硕-内容创作者](https://github.com/Susan2048) (Datawhale社区小伙伴)
-
+- [邢硕-内容创作者](https://github.com/Susan2048) (Datawhale意向成员)
+- [康婧淇-内容创作者](jkan0031@student.monash.edu) (Datawhale成员)
 
 
 特别感谢[@Sm1les](https://github.com/Sm1les)对项目的帮助和支持~
