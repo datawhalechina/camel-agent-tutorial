@@ -1,6 +1,6 @@
 # CAMEL Agent Tutorial
 
-> 目前教程还处于迭代中，可前往飞书文档进行学习~
+> 目前教程还处于迭代中，可前往飞书文档进行学习; 有疑问和运行不通的地方欢迎在github提issue和在教程添加评论信息~
 
 教程完整版在线阅读链接: https://fmhw1n4zpn.feishu.cn/docx/AF4XdOZpIo6TOaxzDK8cxInNnCe?from=from_copylink
 
